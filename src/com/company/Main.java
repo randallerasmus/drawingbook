@@ -2,6 +2,7 @@ package com.company;
 
 public class Main {
 
+    // this is a hackerrank tutorial
     public static void main(String args[]) {
 
         int n = 100;
